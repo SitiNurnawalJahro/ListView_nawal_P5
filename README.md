@@ -1,37 +1,28 @@
-<<<<<<< HEAD
 # flutter_application_3
 
-A new Flutter project.
+Flutter Project - ListView, Navigation, and Profile Page
 
-## Getting Started
+## 📱 About This Project
+This project is a simple Flutter application that contains:
+- Profile Page UI
+- ListView with navigation
+- Detail page for each item (Pertemuan Page)
+- Bottom navigation bar
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
+- ListView Builder
+- Navigation using Navigator
+- Profile UI design
+- Bottom Navigation (Profile & List)
 
-A few resources to get you started if this is your first Flutter project:
+## 🛠️ Built With
+- Flutter
+- Dart
+- salomon_bottom_bar package
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 👩‍💻 Developer
+Siti Nurnawal Jahro
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# flutter_application_3
+---
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> 9788b738d4d381531e584d8f0f9a01a30046111c
+💡 This project is created for learning Flutter basic UI and navigation.
